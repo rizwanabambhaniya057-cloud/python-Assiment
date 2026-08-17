@@ -44,7 +44,9 @@ while True:
             f"Student ID:{info['staid']}|"
             f"Name:{info['name']}|"
             f"Age:{info['age']}|"
-            f
-        )
+            f"Grade:{info['grade']}|"
+            f"subject:{','.join()}"
+            
+)
 
     

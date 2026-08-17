@@ -16,9 +16,9 @@ print(end="\n")
 
 current_year=2026
 
-year_age=current_year-Age
+year_age=current_year- Age
 
-print("Your birth year is approximately:",year_age,)
+print("Your birth year is approximately:",year_age)
 print("Thank you for using the personal Data Collector.Goodbye!")
 
 
